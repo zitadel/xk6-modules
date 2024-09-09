@@ -114,8 +114,8 @@ github.com/zitadel/oidc/v3 v3.29.0 h1:pzpELMr2TM2AzGsDVJ9TRQvNVoiEfda6NUeuL0y6R5
 github.com/zitadel/oidc/v3 v3.29.0/go.mod h1:8TCcN+ClFcWq0DIQilzp0pssdA+8TC5rZ6wzNozrdG8=
 github.com/zitadel/schema v1.3.0 h1:kQ9W9tvIwZICCKWcMvCEweXET1OcOyGEuFbHs4o5kg0=
 github.com/zitadel/schema v1.3.0/go.mod h1:NptN6mkBDFvERUCvZHlvWmmME+gmZ44xzwRXwhzsbtc=
-go.k6.io/k6 v0.53.0 h1:vedyH0gkWp3/roSfgAWhTRk9m5CXia3Is9KuZGKOWYg=
-go.k6.io/k6 v0.53.0/go.mod h1:6eKR5DkEx8jHLUN2EswaF0qmk9wFtgX/4yvlPdKTEwk=
+go.k6.io/k6 v0.53.1-0.20240909131734-741610b990dc h1:T8hPw0coNsEx0sZad/zqJwlXnxseVtI8wMJj76/o/KM=
+go.k6.io/k6 v0.53.1-0.20240909131734-741610b990dc/go.mod h1:3NfYA53Oy6KRBYN5DWj10idluL665lXx9dLbO7zVFW8=
 go.opentelemetry.io/otel v1.29.0 h1:PdomN/Al4q/lN6iBJEN3AwPvUiHPMlt93c8bqTG5Llw=
 go.opentelemetry.io/otel v1.29.0/go.mod h1:N/WtXPs1CNCUEx+Agz5uouwCba+i+bJGFicT8SR4NP8=
 go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.29.0 h1:dIIDULZJpgdiHz5tXrTgKIMLkus6jEFa7x5SOKcyR7E=
