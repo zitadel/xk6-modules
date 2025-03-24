@@ -1,6 +1,6 @@
 module github.com/zitadel/xk6-modules
 
-go 1.23.0
+go 1.23.7
 
 require github.com/zitadel/oidc/v3 v3.34.2
 
