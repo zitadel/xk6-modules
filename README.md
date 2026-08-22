@@ -1,6 +1,6 @@
 # Zitadel xk6 modules
 
-Provides helper functions for the [Zitadel load tests](https://github.com/zitadel/zitadel/tree/main/load-test).
+Provides helper functions for the [Zitadel load tests](https://github.com/zitadel/zitadel/tree/main/benchmark).
 
 ## Provided functions
 
