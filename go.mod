@@ -1,6 +1,6 @@
 module github.com/zitadel/xk6-modules
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/zitadel/oidc/v3 v3.47.8
@@ -41,16 +41,17 @@ require (
 )
 
 require (
-	github.com/go-logr/logr v1.4.3 // indirect
+	github.com/go-logr/logr v1.4.4 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/gorilla/securecookie v1.1.2 // indirect
 	github.com/muhlemmer/gu v0.3.1 // indirect
 	github.com/sirupsen/logrus v1.9.4 // indirect
 	github.com/zitadel/logging v0.7.0 // indirect
 	github.com/zitadel/schema v1.3.2 // indirect
-	go.opentelemetry.io/otel v1.44.0 // indirect
-	go.opentelemetry.io/otel/metric v1.44.0 // indirect
-	go.opentelemetry.io/otel/trace v1.44.0 // indirect
+	go.opentelemetry.io/otel v1.47.0 // indirect
+	go.opentelemetry.io/otel/log v1.47.0 // indirect
+	go.opentelemetry.io/otel/metric v1.47.0 // indirect
+	go.opentelemetry.io/otel/trace v1.47.0 // indirect
 	golang.org/x/oauth2 v0.36.0 // indirect
 	golang.org/x/sys v0.46.0 // indirect
 	golang.org/x/text v0.40.0 // indirect
